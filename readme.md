@@ -1,3 +1,7 @@
+0. test
+
+`curl -L https://github.com/gankkank/vim-config-vundle/blob/master/setup.sh | bash`
+
 
 1. install
 
